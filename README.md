@@ -61,7 +61,7 @@ Follow these steps to set up and run the project in your local environment.
 
 **1. Clone Repository**
 ```bash
-git clone [https://github.com/lilcoderi/task-management-api.git](https://github.com/lilcoderi/task-management-api.git)
+git clone https://github.com/lilcoderi/task-management-api.git
 cd task-management-api
 ```
 
