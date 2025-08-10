@@ -133,6 +133,15 @@ GET /tasks?sort_by=deadline&sort_order=desc
 
 ---
 
+## Testing
+
+Run unit tests to ensure all business logic works as expected:
+```bash
+pytest
+```
+
+---
+
 ## Deployment Details
 
 This API is deployed on Railway.
