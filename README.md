@@ -4,6 +4,7 @@ A **FastAPI** backend service for managing tasks with categories, priorities, an
 
 ---
 
+> **Note:** The deployment on Railway is no longer active due to various factors. The project is now exclusively hosted on Vercel.
 
 | **Live API (Vercel)** | **Swagger Docs (Vercel)** |
 | :------------------------------------------------ | :--------------------------------------------------- |
