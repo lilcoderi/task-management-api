@@ -4,6 +4,11 @@ A **FastAPI** backend service for managing tasks with categories, priorities, an
 
 ---
 
+
+| **Live API (Vercel)** | **Swagger Docs (Vercel)** |
+| :------------------------------------------------ | :--------------------------------------------------- |
+| [https://task-management-api-1fmu.vercel.app](https://task-management-api-1fmu.vercel.app) | [https://task-management-api-1fmu.vercel.app/docs](https://task-management-api-1fmu.vercel.app/docs) |
+
 | **Live API** | **Swagger Docs** |
 | :------------------------------------------------ | :--------------------------------------------------- |
 | [https://taskmanagementapi.up.railway.app](https://taskmanagementapi.up.railway.app) | [https://taskmanagementapi.up.railway.app/docs](https://taskmanagementapi.up.railway.app/docs) |
